@@ -40,7 +40,7 @@ Este ejercicio refuerza conceptos de **herencia jerárquica** y **abstracción**
 
 ## 📎 Enlace al documento PDF
 
-[Ver documento Ejercicio 1: Sistema de Usuarios](ENLACE_A_TU_DOCUMENTO.pdf)
----
+[Ver documento Ejercicio 2: Zoológico](ENLACE_A_TU_DOCUMENTO.pdf)
+
 [Ver documento Ejercicio 2: Zoológico](ENLACE_A_TU_DOCUMENTO.pdf)
 

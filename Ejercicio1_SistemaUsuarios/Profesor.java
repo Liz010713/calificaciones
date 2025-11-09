@@ -1,4 +1,5 @@
-package calificaciones;
+package Ejercicio1_SistemaUsuarios;
+
 public class Profesor {
 
     // Atributos públicos

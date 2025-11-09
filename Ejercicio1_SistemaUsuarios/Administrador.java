@@ -1,4 +1,4 @@
-package calificaciones;
+package Ejercicio1_SistemaUsuarios;
 
 
 public class Administrador extends Usuario {
